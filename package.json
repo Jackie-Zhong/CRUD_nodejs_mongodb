@@ -1,0 +1,16 @@
+{
+  "name": "crud_nodejs_mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "call/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "mongoose": "^4.13.18"
+  },
+  "author": "",
+  "license": "ISC"
+}
